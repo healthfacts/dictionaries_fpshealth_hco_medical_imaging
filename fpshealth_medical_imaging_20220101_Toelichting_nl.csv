@@ -1,0 +1,41 @@
+﻿"FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu
+DGGS - Gezondheidszorg - Dienst Data- en beleidsinformatie";Unnamed: 1
+;
+Toelichting bij het overzicht voor zware toestellen voor medische beeldvorming;
+;
+Selectie van de toestellen;
+"Dit overzicht bevat een oplijsting van zware toestellen voor medische beeldvorming (CT, PET-CT, SPECT-CT en MRI) die voor klinisch gebruik worden ingezet. Dit betreft een stand van zaken dd. 1/01/2022.
+
+     - MRI-toestellen die louter voor wetenschappelijk gebruik worden ingezet, zijn bijgevolg niet opgenomen in deze lijst.
+     - Bij PET-CT-toestellen bestaan er naast de zuiver klinische toestellen ook toestellen voor “gemengd” gebruik (klinisch én wetenschappelijk gebruik). Aangezien deze     toestellen ook voor klinisch gebruik worden ingezet en deze erkend en geprogrammeerd zijn, zijn deze opgenomen in het overzicht.
+
+Verder worden enkel toestellen opgenomen in het overzicht die aan de volgende voorwaarden voldoen:
+    - Toestellen waarvoor een volledige melding werd ontvangen door de FOD VVVL. De informatie in het overzicht is bijgevolg gebaseerd op de informatie die de FOD VVVL van de exploitant van het toestel en eventueel van de industrie verkregen heeft.
+    - Toestellen die de programmatie niet overschrijden en waarvoor een geldige erkenning van de bevoegde gemeenschap beschikbaar is.
+    - Toestellen waarvoor de oprichtings- en exploitatievergunning vanuit het FANC beschikbaar is (CT en toestellen met een CT-component).
+    - De exploitant beschikt over een erkende medisch-technische dienst voor medische beeldvorming met een CT-scanner.
+    - Voor CT en SPECT-CT toestellen: Het toestel beschikt in het kadaster over een datum van toestemming van de bevoegde deelstaat.
+
+Opmerking:  Indien een toestel wordt opgenomen in het overzicht, betekent dit niet noodzakelijk dat voor dit toestel een toestelfacturatienummer werd toegekend door het RIZIV en dat er een tegemoetkoming voor de onderzoeken uitgevoerd op dit toestel wordt voorzien door het RIZIV. Voor verdere informatie hieromtrent kan u rechtstreeks contact opnemen met hen via medical-imaging@riziv.fgov.be.
+";
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Overzicht variabelen;
+Toestelnummer;Aan elk toestel dat geregistreerd wordt in het kadaster, wordt een toestelnummer toegekend. Het is mogelijk dat een uniek toestel doorheen de tijd meerdere toestelnummers toegewezen krijgt. In het geval van bijvoorbeeld een wijziging van een parameter doorgegeven door de exploitant (bv. bij een verhuis of een update) wordt een nieuwe lijn toegevoegd aan het kadaster en wordt een nieuw toestelnummer toegekend.
+Erkenningsnummer;Hier wordt het erkenningsnummer weergegeven van het ziekenhuis dat de exploitant van het toestel is. Dit nummer wordt toegekend door de overheid die bevoegd is voor de erkenning van ziekenhuizen en bevat 3 cijfers. Dit nummer wordt enkel ingevuld indien de exploitant van het toestel een ziekenhuis is.
+Campusnummer;Hier wordt het campusnummer weergegeven van de campus waar het toestel effectief geïnstalleerd is. Het campusnummer is een nummer dat door de FOD VVVL toegekend wordt specifiek aan een campus van een ziekenhuis.
+Naam exploitant;Dit is de naam van de exploitant.
+Gemeente;Dit is de gemeente waar het toestel geplaatst is. 
+Provincie;Dit is de provincie waar het toestel geplaatst is.
+Fabrikant;Fabrikant of het merk van het toestel
+Model;Model van het toestel
+Type gebruik (enkel voor PET-CT);Hier wordt aangegeven met welk doeleinde het toestel gebruikt wordt: klinisch of klinisch en wetenschappelijk
+Ziekenhuizen in associatie;Hier worden de ziekenhuizen waarmee het toestel in associatie uitgebaat wordt weergegeven.

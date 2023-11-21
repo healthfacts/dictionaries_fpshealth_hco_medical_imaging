@@ -1,0 +1,31 @@
+﻿"SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement
+DGGS - Soins de santé - Service Data et Information stratégique";Unnamed: 1
+;
+Explication concernant l’aperçu pour les appareils lourds d’imagerie médicale;
+;
+Sélection des appareils ;
+Le présent aperçu contient une énumération des appareils lourds d’imagerie médicale (CT, PET-CT, SPECT-CT et IRM) mis en place pour une utilisation médicale. Il s’agit d’un état des lieux au 1/01/2019.;
+;
+ - Les appareils IRM qui sont mis en place pour une utilisation purement scientifique ne sont par conséquent pas repris dans cette liste.;
+ - Pour les appareils PET existent également, outre les appareils purement cliniques, des appareils à usage « mixte » (utilisation clinique et scientifique). Ces appareils étaient également mis en place et programmés pour une utilisation clinique, ils sont repris dans le présent aperçu.;
+;
+Ne sont en outre repris dans l’aperçu que les appareils qui répondent aux conditions suivantes :;
+" - Les appareils pour lesquels un signalement complet a été reçu par le SPF SPSCAE. Les informations figurant dans l’aperçu sont par conséquent basées sur les informations que le SPF SPSCAE a reçues de l’exploitant de l’appareil ;";
+" - Les appareils qui relèvent de la programmation et pour lesquels un agrément valide de la communauté compétente est disponible ;";
+ - Les appareils pour lesquels l’autorisation de création et d’exploitation émanant de l’AFCN est disponible (CT et appareils possédant un composant CT).;
+;
+Remarque : lorsqu’un appareil est repris dans l’aperçu, cela ne signifie pas nécessairement qu’un numéro de facturation de l’appareil a été attribué par l’INAMI et qu’une intervention pour les examens effectués sur cet appareil est prévue par l’INAMI. Pour un complément d’information à ce sujet, vous pouvez prendre directement contact avec l’INAMI via medical-imaging@riziv.fgov.be.;
+;
+Aperçu des variables;
+Numéro d’appareil;À chaque appareil enregistré dans le cadastre est attribué un numéro d’appareil. Il est possible que plusieurs numéros d’appareils soient attribués à un même appareil au fil du temps. Dans le cas, par exemple, d’une modification d’un paramètre indiqué par l’exploitant (p.ex. lors d’un déménagement ou d’une mise à jour). Une nouvelle ligne est ainsi ajoutée au cadastre et un nouveau numéro d’appareil attribué.
+;
+;Ce numéro d’appareil n’est pas le numéro qu’attribue l’INAMI à des fins de facturation.
+Numéro d’agrément;Est indiqué ici le numéro d’agrément de l’hôpital qui est l’exploitant de l’appareil. Ce numéro est octroyé par l’autorité compétente pour l’agrément des hôpitaux et se compose de 3 chiffres. Ce numéro n’est complété que si l’exploitant de l’appareil est un hôpital.
+Numéro de campus;Est indiqué ici le numéro de campus de l’hôpital qui est l’exploitant de l’appareil. Le numéro de campus est le numéro, propre à un campus, qui est attribué par le SPF SPSCAE et se compose de 4 chiffres. Ce numéro n’est complété que si l’exploitant de l’appareil est un hôpital.
+Nom de l’exploitant;Il s’agit du nom de l’exploitant.
+Commune;Il s’agit de la commune où l’appareil est installé. 
+Province;Il s’agit de la province où l’appareil est installé.
+Fabricant;Fabricant ou marque de l’appareil.
+Modèle;Modèle de l’appareil.
+Type d’utilisation (uniquement pour PET et IRM);Est indiqué ici l’objectif dans lequel l’appareil est utilisé : clinique ou clinique et scientifique.
+Hôpitaux en association ;Sont indiqués ici les hôpitaux en association avec lesquels l’appareil est exploité.
